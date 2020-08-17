@@ -1,5 +1,9 @@
 # Battery Widget
 
+<iframe title="Nimble Stats" src="https://nimble.directory/ci/badges/batterywidget/nimdevel/output.html" />
+<iframe title="Nimble Docs" src="https://nimble.directory/ci/badges/batterywidget/nimdevel/doc_build_output.html" />
+
+
 Battery widget for command prompt. Written in Nim.
 
 <div align="center">
